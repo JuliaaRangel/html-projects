@@ -1,0 +1,119 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top:130px
+}
+
+
+.topright {
+  position: absolute;
+  top: 20px;
+  right: 240px;
+  font-size: 13px;
+  Color:black;
+  
+}
+
+
+.topright2 {
+  position: absolute;
+  top: 20px;
+  right: 170px;
+  font-size: 13px;
+  Color:black;
+}
+
+
+.topleft {
+  position: absolute;
+  top: 20px;
+  Left: 20px;
+  font-size: 13px;
+  Color:black; 
+}
+
+
+.topleft2 {
+  position: absolute;
+  top: 20px;
+  Left: 80px;
+  font-size: 13px;
+  Color:black;    
+}
+
+
+.top {
+   position:absolute; 
+   right:120px; 
+   top:-115px;  
+}
+
+
+.nine {
+   Position:absolute;
+   right:70px; 
+   top:-113px;
+}
+
+
+.gaccount {
+   Position:absolute;
+   right:18px; 
+   top:-114px;
+}
+
+
+form {
+  Position:absolute;
+  Width:500px;
+  Height:43px;
+  color: #555;
+  display: flex;
+  padding: 2px;
+  border: 1px solid currentColor;
+  border-radius: 500px;
+  Top:250px;
+  Right:450px;
+}
+
+
+Input:hover {
+   box-shadow: 0px 1px 3px rgb(192, 185, 185)
+}
+
+
+button[type="submit"] {
+  text-indent: -999px;
+  overflow: hidden;
+  width: 40px;
+  padding: 0;
+  margin: 0;
+  border: 1px transparent;
+  border-radius: inherit;
+  background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat center;
+  cursor: default;
+  opacity: 0.7;
+}
+
+
+ .buttons {
+   padding: 10px 20px 10px 20px;
+   border-radius: 4px;
+   border: none;
+   margin-top: 100px;
+   cursor: pointer;
+   Margin-left:569px;
+ }
+
+
+.buttons2 {
+   padding: 10px 20px 10px 20px;
+   border-radius: 4px;
+   border: none;
+   margin-top: 20px;
+   cursor: pointer;
+}
+
+
+
